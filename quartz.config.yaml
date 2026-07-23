@@ -16,7 +16,7 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Inter
+      header: Source Sans Pro
       body: Source Sans Pro
       code: IBM Plex Mono
     colors:
