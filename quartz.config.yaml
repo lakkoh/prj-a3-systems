@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: lakkoh.github.io/prj-a3-systems
+  baseUrl: report.leargun.site
   ignorePatterns:
     - private
     - templates
@@ -159,7 +159,7 @@ plugins:
       position: left
       priority: 50
   - source: github:quartz-community/graph
-    enabled: true
+    enabled: false
     layout:
       position: right
       priority: 10
